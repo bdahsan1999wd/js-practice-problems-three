@@ -89,4 +89,6 @@
 1. Create an array of 6 numbers.
 2. Use the `slice` method to copy the first 3 numbers into a new array and print it.
 3. Use the `splice` method to remove 2 elements starting from index 2.
-4. Print the final modified array.
+4. Use the `splice` method again to insert new elements into the array (without removing any).
+5. Use the `splice` method once more to replace some elements with new values.
+6. Print the final modified array after each operation.
