@@ -24,9 +24,7 @@
 **Instructions:**
 
 1. Create an array of books containing different book.
-
 2. Use the includes method to check if the array contains a javascript book.
-
 3. Print a message to the console indicating whether the element is present in the array or not.
 
 ---
@@ -36,9 +34,7 @@
 **Instructions:**
 
 1. Create different variables, each containing either an array or a non-array value.
-
 2. Now use isArray to check if each variable is an array.
-
 3. Print a message to the console indicating whether each variable is an array or not.
 
 ---
@@ -50,3 +46,47 @@
 1. Create two arrays of your choice.
 2. Use the concat method to combine the two arrays into a new array.
 3. Print both the original arrays and the combined array using console.log().
+
+---
+
+### 6. Array to String with `join`
+
+**Instructions:**
+
+1. Declare an array of 5 colors.
+2. Use the `join` method to combine all elements into a single string separated by commas.
+3. Print the result in console.
+4. Also print the original array to show it is not changed.
+
+---
+
+### 7. Removing the First Element with `shift`
+
+**Instructions:**
+
+1. Create an array of 4 friends' names.
+2. Use the `shift` method to remove the first element.
+3. Print which element was removed.
+4. Print the updated array.
+
+---
+
+### 8. Adding an Element at the Beginning with `unshift`
+
+**Instructions:**
+
+1. Create an array of 3 programming languages.
+2. Use the `unshift` method to add one new language at the beginning.
+3. Print the new length of the array.
+4. Print the updated array.
+
+---
+
+### 9. Extracting and Modifying with `slice` and `splice`
+
+**Instructions:**
+
+1. Create an array of 6 numbers.
+2. Use the `slice` method to copy the first 3 numbers into a new array and print it.
+3. Use the `splice` method to remove 2 elements starting from index 2.
+4. Print the final modified array.
