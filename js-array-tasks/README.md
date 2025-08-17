@@ -92,3 +92,36 @@
 4. Use the `splice` method again to insert new elements into the array (without removing any).
 5. Use the `splice` method once more to replace some elements with new values.
 6. Print the final modified array after each operation.
+
+---
+
+### 10. Reversing Words in a Sentence
+
+**Instructions:**
+
+1. Declare a string sentence.
+2. Split the sentence into words.
+3. Reverse the array of words.
+4. Join them back into a string.
+5. Print the reversed sentence.
+
+---
+
+### 11. Copying an Array without Affecting the Original
+
+**Instructions:**
+
+1. Create an array of numbers.
+2. Copy the array (so the original isn’t affected).
+3. Change the first element of the copy to `99`.
+4. Print both arrays.
+
+---
+
+### 12. Updating a 2D Array
+
+**Instructions:**
+
+1. Create a 2D array.
+2. Update the value at the second row, first item, to `99`.
+3. Print the updated array.
